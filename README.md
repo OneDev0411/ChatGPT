@@ -215,19 +215,6 @@ Simply follow the instructions in the official [Skeleton UI documentation](https
 
 Contributions are always welcome! Feel free to open a pull request, report bugs, or submit feature requests. Please follow the Code of Conduct and Contribution Guidelines when participating in this project.
 
-### Main Contributors
-
-<p>
-  <img src="https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Simon.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp" alt="A portrait of Simon Hopstätter" height="100">
-  <br>
-  <span>Simon Hopstätter</span>
-</p>
-<p>
-  <img src="https://alqxoepsjp.cloudimg.io/v7/_shipbit_/team/Timo.png?w=128&h=128&func=face&face_margin=30&radius=9999&force_format=webp" alt="A portrait of Timo Korinth" height="100">
-  <br>
-  <span>Timo Korinth</span>
-</p>
-
 <p align="right">[ <a href="#readme-top">back to top</a> ]</p>
 
 ## License
